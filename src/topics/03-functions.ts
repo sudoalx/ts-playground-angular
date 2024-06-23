@@ -2,6 +2,7 @@ function addNumbers(a: number, b: number) {
   return a + b;
 }
 
+// Arrow functions
 const addNumbersArrow = (a: number, b: number): number => {
   return a + b;
 };
